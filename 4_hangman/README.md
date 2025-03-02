@@ -156,8 +156,7 @@ hangman()
 3. Run the Script: python hangman.py
 ```
 
-**Author:** Sohaib Sharih  
+**Author:** Sohaib Sharih
 **Linkedin:** https://www.linkedin.com/in/sohaib-sharih-a105303b/
 **Website:** https://www.codeinterpret.com
 Enjoy playing Hangman! 🎉
-
