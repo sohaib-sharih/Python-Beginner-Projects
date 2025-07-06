@@ -6,3 +6,8 @@
 2. Number Guessing Game where the Computer has to guess your number.
 3. Rock Paper Scissors.
 4. Hangman
+
+
+## License
+
+This project is licensed under the [MIT License](./LICENSE).
